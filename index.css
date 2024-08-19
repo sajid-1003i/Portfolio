@@ -1,0 +1,18 @@
+a{
+    text-decoration: none;
+}
+.header-container{
+    background-color: aliceblue;
+}
+.nav-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-item{
+    display: flex;
+}
+li{
+    padding: 10px;
+    list-style-type: none;
+}
